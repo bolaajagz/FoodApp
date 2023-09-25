@@ -11,7 +11,7 @@
         <img src="../assets/Group 1000004174.svg" />
       </div>
       <div class="mt-6 button--primary rounded-full">
-        <span class="material-symbols-outlined"> arrow_forward </span>
+        <span class="material-symbols-outlined" > arrow_forward </span>
       </div>
     </div>
   </div>
